@@ -29,14 +29,14 @@
 
 ## Literature
 
-- Mark Lutz. _Programming Python_
 - Andrew Tanenbaum. _Modern Operating Systems_
 - Andrew Tanenbaum. _Computer Networks_
-- Steve McConnell. _Code Complete_
-- Daniel Kahneman. _Thinking, Fast and Slow_
-- Alan Donovan, Brian Kernighan. _The Go Programming Language_
 - Brian Kernighan, Dennis Ritchie. _The C Programming Language_
+- Alan Donovan, Brian Kernighan. _The Go Programming Language_
 - Brian Kernighan, Rob Pike. _The Practice of Programming_
+- Daniel Kahneman. _Thinking, Fast and Slow_
+- Steve McConnell. _Code Complete_
+- Mark Lutz. _Programming Python_
 
 ## Experience
 
