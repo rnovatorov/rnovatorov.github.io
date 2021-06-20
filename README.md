@@ -1,8 +1,8 @@
 # Roman Novatorov
 
 - Male, born on 06-05-1995
-- Email: roman.novatorov@gmail.com
-- GitHub: https://github.com/rnovatorov
+- Email: [roman.novatorov@gmail.com](mailto:roman.novatorov@gmail.com)
+- GitHub: [rnovatorov](https://github.com/rnovatorov)
 
 ## About me
 
