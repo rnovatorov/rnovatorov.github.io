@@ -15,7 +15,7 @@
 - Algorithms, data structures
 - GNU/Linux
 - TCP/IP
-- Go, C, Python, Lua
+- Go, Python, C, Lua
 - PostgreSQL
 - RabbitMQ
 - Docker, Ansible
@@ -46,6 +46,12 @@
 
 - 2016-09 - 2017-09: **Infocommunication Technologies** at [**ITMO University**](https://en.itmo.ru/)
 - 2013-09 - 2016-09: **Foreign Languages** at [**Omsk State Pedagogical University**](https://omgpu.ru/en/)
+
+## Languages
+
+- Russian (native)
+- English (can attend an interview)
+- German (basic knowledge)
 
 ## Literature
 
