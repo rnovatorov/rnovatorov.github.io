@@ -1,6 +1,6 @@
 # Roman Novatorov
 
-- Male, born on 06-05-1995
+- Male, born on 06.05.1995
 - Email: [roman.novatorov@gmail.com](mailto:roman.novatorov@gmail.com)
 - GitHub: [rnovatorov](https://github.com/rnovatorov)
 
@@ -65,3 +65,5 @@
 - Steve McConnell. _Code Complete_
 - Mark Lutz. _Programming Python_
 - Roberto Ierusalimschy. _Programming in Lua_
+- Jason J.W. Williams. _RabbitMQ in Action_
+- Chris Richardson. _Microservices Patterns_
