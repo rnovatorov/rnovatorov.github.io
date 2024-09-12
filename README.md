@@ -13,34 +13,17 @@
 ## Tech skills
 
 - Algorithms, data structures
-- GNU/Linux
-- TCP/IP
+- GNU/Linux, TCP/IP
 - Go, Python, C, Lua
-- PostgreSQL
-- RabbitMQ
+- PostgreSQL, RabbitMQ
 - Docker, Ansible
 - Prometheus, Grafana
-- Git
 
 ## Experience
 
 - 2020-10 - now: **Software Engineer** at [**Enapter**](https://enapter.com)
-
-  - Development of IoT platform (Go, C, Lua)
-  - Distributed system tuning
-  - Custom Linux distribution development
-
 - 2019-01 - 2020-10: **Software Engineer** at [**TradingView**](https://tradingview.com)
-
-  - Development of high-load Fintech backend (Go)
-  - Integration testing automation (Python, Go)
-  - Performance and load testing
-
 - 2017-04 - 2019-01: **Test Automation Engineer** at [**Navico**](https://navico.com)
-
-  - Development of regression testing framework (Python)
-  - Functional testing automation (C#)
-  - Manual testing
 
 ## Education
 
