@@ -1,2 +1,5 @@
 cv.pdf: README.md
-	pandoc $< -o $@
+	pandoc \
+		-V pagestyle=empty \
+		-V geometry:margin=2cm \
+		$< -o $@
