@@ -33,8 +33,8 @@
 ## Languages
 
 - Russian (native)
-- English (can attend an interview)
-- German (basic knowledge)
+- English (fluent)
+- German (intermediate knowledge)
 
 ## Literature
 
