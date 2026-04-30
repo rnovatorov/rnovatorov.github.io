@@ -50,3 +50,4 @@
 - Roberto Ierusalimschy. _Programming in Lua_
 - Jason J.W. Williams. _RabbitMQ in Action_
 - Chris Richardson. _Microservices Patterns_
+- Martin Kleppmann. _Designing Data-Intensive Applications_
