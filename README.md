@@ -23,9 +23,9 @@
 
 ### **Software Engineer** at [**Enapter**](https://enapter.com) (2020-10 - Present)
 
-- Developed backend infrastructure and microservices for the Enapter IoT Energy Management System (EMS).
-- Built and maintained Enapter Industrial Linux, a Yocto-based custom distribution for Gateway edge devices.
-- Managed deployment configurations using Docker and orchestrated telemetry pipelines for device data collection.
+- Built a distributed microservices architecture for the Enapter IoT platform, managing multi-terabyte TimescaleDB databases.
+- Developed an open-source MCP server, enabling AI assistants to seamlessly interact with the platform.
+- Created custom Grafana plugins to visualize timeseries data and execute device commands.
 
 ### **Software Engineer** at [**TradingView**](https://tradingview.com) (2019-01 - 2020-10)
 
