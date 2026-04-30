@@ -21,18 +21,23 @@
 
 ## Experience
 
-- 2020-10 - now: **Software Engineer** at [**Enapter**](https://enapter.com)
-  - Developed backend infrastructure and microservices for the Enapter IoT Energy Management System (EMS).
-  - Built and maintained Enapter Industrial Linux, a Yocto-based custom distribution for Gateway edge devices.
-  - Managed deployment configurations using Docker and orchestrated telemetry pipelines for device data collection.
-- 2019-01 - 2020-10: **Software Engineer** at [**TradingView**](https://tradingview.com)
-  - Developed and maintained a high-performance HTTP proxy in Go, used for real-time financial data streaming.
-  - Designed and implemented an integration testing framework using Python and Docker.
-  - Conducted rigorous performance and load testing to ensure backend reliability.
-- 2017-04 - 2019-01: **Test Automation Engineer** at [**Navico**](https://navico.com)
-  - Maintained and expanded a Python-based regression testing suite targeting backend APIs for marine cartography products.
-  - Developed automated BDD tests using C#.
-  - Conducted functional and manual testing to ensure software reliability.
+### **Software Engineer** at [**Enapter**](https://enapter.com) (2020-10 - Present)
+
+- Developed backend infrastructure and microservices for the Enapter IoT Energy Management System (EMS).
+- Built and maintained Enapter Industrial Linux, a Yocto-based custom distribution for Gateway edge devices.
+- Managed deployment configurations using Docker and orchestrated telemetry pipelines for device data collection.
+
+### **Software Engineer** at [**TradingView**](https://tradingview.com) (2019-01 - 2020-10)
+
+- Developed and maintained a high-performance HTTP proxy in Go, used for real-time financial data streaming.
+- Designed and implemented an integration testing framework using Python and Docker.
+- Conducted rigorous performance and load testing to ensure backend reliability.
+
+### **Test Automation Engineer** at [**Navico**](https://navico.com) (2017-04 - 2019-01)
+
+- Maintained and expanded a Python-based regression testing suite targeting backend APIs for marine cartography products.
+- Developed automated BDD tests using C#.
+- Conducted functional and manual testing to ensure software reliability.
 
 ## Education
 
