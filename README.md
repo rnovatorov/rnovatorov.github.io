@@ -2,6 +2,7 @@
 
 - Email: [roman.novatorov@gmail.com](mailto:roman.novatorov@gmail.com)
 - GitHub: [rnovatorov](https://github.com/rnovatorov)
+- LinkedIn: [rnovatorov](https://www.linkedin.com/in/rnovatorov)
 
 ## About me
 
