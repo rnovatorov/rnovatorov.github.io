@@ -48,7 +48,7 @@
 
 - Russian (native)
 - English (fluent)
-- German (intermediate knowledge)
+- German (upper intermediate)
 
 ## Literature
 
