@@ -52,16 +52,16 @@
 
 ## Literature
 
-- Andrew Tanenbaum. _Modern Operating Systems_
-- Andrew Tanenbaum. _Computer Networks_
+- Martin Kleppmann. _Designing Data-Intensive Applications_
+- Chris Richardson. _Microservices Patterns_
+- Jason J.W. Williams. _RabbitMQ in Action_
+- Roberto Ierusalimschy. _Programming in Lua_
+- Regina Obe, Leo Hsu. _PostgreSQL Up and Running_
 - Brian Kernighan, Dennis Ritchie. _The C Programming Language_
 - Alan Donovan, Brian Kernighan. _The Go Programming Language_
 - Brian Kernighan, Rob Pike. _The Practice of Programming_
 - Daniel Kahneman. _Thinking, Fast and Slow_
-- Regina Obe, Leo Hsu. _PostgreSQL Up and Running_
 - Steve McConnell. _Code Complete_
+- Andrew Tanenbaum. _Modern Operating Systems_
+- Andrew Tanenbaum. _Computer Networks_
 - Mark Lutz. _Programming Python_
-- Roberto Ierusalimschy. _Programming in Lua_
-- Jason J.W. Williams. _RabbitMQ in Action_
-- Chris Richardson. _Microservices Patterns_
-- Martin Kleppmann. _Designing Data-Intensive Applications_
