@@ -15,7 +15,7 @@
 - Algorithms, data structures
 - GNU/Linux, TCP/IP
 - Go, Python, C, Lua
-- PostgreSQL, RabbitMQ
+- PostgreSQL, Redis, RabbitMQ
 - Docker, Ansible
 - Prometheus, Grafana
 
