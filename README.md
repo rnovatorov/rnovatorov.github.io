@@ -6,9 +6,8 @@
 
 ## About me
 
-- I am a self-taught software engineer and musician.
-- I like to solve real-world problems and to learn new things.
-- I don't like unnecessary complexity and reinventing the wheel.
+Backend engineer focused on the reliability of distributed systems. I design
+services that stay correct under failures, concurrency and high load.
 
 ## Tech skills
 
