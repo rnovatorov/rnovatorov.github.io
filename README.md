@@ -1,13 +1,11 @@
 # Roman Novatorov
 
+Backend engineer focused on the reliability of distributed systems. I design
+services that stay correct under failures, concurrency and high load.
+
 - Email: [roman.novatorov@gmail.com](mailto:roman.novatorov@gmail.com)
 - GitHub: [rnovatorov](https://github.com/rnovatorov)
 - LinkedIn: [rnovatorov](https://www.linkedin.com/in/rnovatorov)
-
-## About me
-
-Backend engineer focused on the reliability of distributed systems. I design
-services that stay correct under failures, concurrency and high load.
 
 ## Experience
 
