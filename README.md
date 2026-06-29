@@ -53,6 +53,6 @@ Tech: Python, HTTP
 
 ## Languages
 
-- Russian (native)
 - English (fluent)
 - German (upper intermediate)
+- Russian (native)
