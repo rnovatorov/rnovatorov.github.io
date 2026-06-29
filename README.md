@@ -7,6 +7,12 @@ services that stay correct under failures, concurrency and high load.
 - GitHub: [rnovatorov](https://github.com/rnovatorov)
 - LinkedIn: [rnovatorov](https://www.linkedin.com/in/rnovatorov)
 
+## Languages
+
+- English (fluent)
+- German (upper intermediate)
+- Russian (native)
+
 ## Experience
 
 ### **Software Engineer** at [**Enapter**](https://enapter.com) (2020-10 - Present)
@@ -48,11 +54,4 @@ Tech: Python, HTTP
 
 ## Education
 
-- 2016-09 - 2017-09: **Infocommunication Technologies** at [**ITMO University**](https://en.itmo.ru/)
-- 2013-09 - 2016-09: **Foreign Languages** at [**Omsk State Pedagogical University**](https://omgpu.ru/en/)
-
-## Languages
-
-- English (fluent)
-- German (upper intermediate)
-- Russian (native)
+Self-taught.
