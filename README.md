@@ -24,8 +24,8 @@ Owning core backend subsystems end-to-end.
   plugins](https://github.com/Enapter/grafana-plugins) for timeseries
   visualization and device command execution
 
-Tech: Go, gRPC, HTTP, MQTT, MCP, Postgres, TimescaleDB, RabbitMQ, Redis,
-Docker, Ansible, Kubernetes, Grafana, Prometheus, Python, C, Lua
+Tech: Go, Python, C, Lua, gRPC, HTTP, MQTT, MCP, Postgres, TimescaleDB,
+RabbitMQ, Redis, Docker, Ansible, Kubernetes, Grafana, Prometheus
 
 ### **Software Engineer** at [**TradingView**](https://tradingview.com) (2019-01 - 2020-10)
 
