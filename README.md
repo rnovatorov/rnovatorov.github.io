@@ -46,7 +46,10 @@ Tech: Python, HTTP
 
 ## Education
 
-Self-taught.
+Self-taught, with university coursework in:
+
+- **Infocommunication Technologies** at [**ITMO University**](https://en.itmo.ru/) (2016 - 2017)
+- **Foreign Languages** at [**Omsk State Pedagogical University**](https://omgpu.ru/en/) (2013 - 2016)
 
 ## Languages
 
