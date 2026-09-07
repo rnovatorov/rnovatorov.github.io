@@ -11,11 +11,11 @@ services that stay correct under failures, concurrency and high load.
 
 ### **Software Engineer** at [**Enapter**](https://enapter.com) (2020-10 - Present)
 
-Owning core backend subsystems end-to-end.
+Owning core backend subsystems for a fleet of 12,000+ electrolyzer stacks in
+55+ countries.
 
-- Architected the data warehouse (~5 TB, 5000 datapoints/sec) for cross-device
-  telemetry aggregation
-- Extracted >10 microservices during a migration from a monolith
+- Architected a data warehouse (~7 TB) for cross-device telemetry aggregation
+- Extracted 10+ microservices during a migration from a monolith
 - Built an event-sourced saga engine for causally consistent syncing of the
   offline-first IoT gateway metadata
 - Developed an open-source [MCP server](https://github.com/Enapter/mcp-server)
@@ -29,7 +29,8 @@ RabbitMQ, Redis, Docker, Ansible, Kubernetes, Grafana, Prometheus
 
 ### **Software Engineer** at [**TradingView**](https://tradingview.com) (2019-01 - 2020-10)
 
-Worked on a high-load reverse proxy distributing real-time market data.
+Worked on a high-load reverse proxy distributing real-time market data to 10M+
+monthly active users.
 
 - Designed consistent-hashing routing subsystem with dynamic node discovery
 - Owned and extended an integration testing framework
