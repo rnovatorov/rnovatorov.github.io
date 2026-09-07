@@ -11,18 +11,19 @@ services that stay correct under failures, concurrency and high load.
 
 ### **Software Engineer** at [**Enapter**](https://enapter.com) (2020-10 - Present)
 
-Owning core backend subsystems for a fleet of 12,000+ electrolyzer stacks in
-55+ countries.
+I currently own core backend subsystems for a fleet of 12,000+ electrolyzer
+stacks in 55+ countries.
 
 - Architected a data warehouse (~7 TB) for cross-device telemetry aggregation
 - Extracted 10+ microservices during a migration from a monolith
-- Built an event-sourced saga engine for causally consistent syncing of the
-  offline-first IoT gateway metadata
+- Built an event-sourced saga engine providing metadata consistency across 50+
+  IoT gateways
 - Developed an open-source [MCP server](https://github.com/Enapter/mcp-server)
   exposing the platform to AI assistants
-- Created 2 [custom Grafana
+- Created two [custom Grafana
   plugins](https://github.com/Enapter/grafana-plugins) for timeseries
-  visualization and device command execution
+  visualization and device command execution, shipped in the customer-facing
+  Grafana (300+ dashboards)
 
 Tech: Go, Python, C, Lua, gRPC, HTTP, MQTT, MCP, Postgres, TimescaleDB,
 RabbitMQ, Redis, Docker, Ansible, Kubernetes, Grafana, Prometheus
@@ -32,7 +33,7 @@ RabbitMQ, Redis, Docker, Ansible, Kubernetes, Grafana, Prometheus
 Worked on a high-load reverse proxy distributing real-time market data to 10M+
 monthly active users.
 
-- Designed consistent-hashing routing subsystem with dynamic node discovery
+- Designed a consistent-hashing routing subsystem with dynamic node discovery
 - Owned and extended an integration testing framework
 - Automated load testing to validate proxy performance
 
