@@ -11,8 +11,8 @@ services that stay correct under failures, concurrency and high load.
 
 ### **Software Engineer** at [**Enapter**](https://enapter.com) (2020-10 - Present)
 
-I currently own core backend subsystems for a fleet of 12,000+ electrolyzer
-stacks in 55+ countries.
+I currently own core backend subsystems that serve 12,000+ electrolyzer stacks
+producing green hydrogen in 55+ countries.
 
 - Built an event-sourced saga engine providing metadata consistency across 50+
   offline-first IoT gateways
