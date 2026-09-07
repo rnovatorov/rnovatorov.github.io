@@ -35,14 +35,14 @@ Worked on a high-load reverse proxy distributing real-time market data.
 - Owned and extended an integration testing framework
 - Automated load testing to validate proxy performance
 
-Tech: Go, Python, HTTP, ZooKeeper, Docker
+Tech: Go, Python, HTTP, ZooKeeper, Docker, Keepalived
 
 ### **Test Automation Engineer** at [**Navico**](https://navico.com) (2017-04 - 2019-01)
 
 Maintained an automated regression testing suite for backend APIs of marine
 cartography products.
 
-Tech: Python, HTTP
+Tech: Python, HTTP, AWS
 
 ## Education
 
