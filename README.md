@@ -14,8 +14,10 @@ services that stay correct under failures, concurrency and high load.
 Own core backend subsystems that serve 12,000+ electrolyzer stacks producing
 green hydrogen in 55+ countries.
 
-- Built an event-sourced saga engine providing metadata consistency across 50+
-  offline-first IoT gateways
+- Built an event-sourced saga engine executing durable workflows across 2,700+
+  sites
+- Designed edge-to-cloud sync with causal consistency for offline-first gateway
+  operation
 - Created two [custom Grafana
   plugins](https://github.com/Enapter/grafana-plugins) for timeseries
   visualization and device command execution, shipped in the customer-facing
